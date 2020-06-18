@@ -1,2 +1,2 @@
 # password-generator
-A node.js password generator because I'm bored. ¯\\_(ツ)_/¯
+A node.js password generator because I'm bored. ¯\\__(ツ)_/¯
